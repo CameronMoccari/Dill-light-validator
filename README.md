@@ -1,1 +1,1 @@
-# Dill-light-validator
+Setting Light Validator on Dill Testnet Andes
